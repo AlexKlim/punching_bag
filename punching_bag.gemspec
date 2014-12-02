@@ -19,7 +19,7 @@ spec = Gem::Specification.new do |s|
   #s.add_dependency 'voight_kampff', '~> 0.2'
   s.add_development_dependency 'activerecord', '~> 4.0'
   s.add_development_dependency 'combustion', '~> 0.5'
-  s.add_development_dependency 'rspec-its', '~> 1.0'
-  s.add_development_dependency 'rspec-rails', '~> 3.0'
+  #s.add_development_dependency 'rspec-its', '~> 1.0'
+  #s.add_development_dependency 'rspec-rails', '~> 3.0'
   s.add_development_dependency 'sqlite3', '~> 1.3'
 end
